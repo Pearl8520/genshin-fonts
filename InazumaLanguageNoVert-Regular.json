@@ -2,6 +2,7 @@
     "font_name": "Inazuma Language No Vert",
     "glyphs": {
         "A": {
+            "spec_number": 1,
             "contours": [
                 {
                     "x": 505,
@@ -455,6 +456,7 @@
             "advanceWidth": 906
         },
         "B": {
+            "spec_number": 2,
             "contours": [
                 {
                     "x": 775,
@@ -928,6 +930,7 @@
             "advanceWidth": 898
         },
         "C": {
+            "spec_number": 3,
             "contours": [
                 {
                     "x": 207,
@@ -1141,6 +1144,7 @@
             "advanceWidth": 707
         },
         "D": {
+            "spec_number": 4,
             "contours": [
                 {
                     "x": 757,
@@ -1566,6 +1570,7 @@
             "advanceWidth": 883
         },
         "E": {
+            "spec_number": 5,
             "contours": [
                 {
                     "x": 207,
@@ -2267,6 +2272,7 @@
             "advanceWidth": 700
         },
         "F": {
+            "spec_number": 6,
             "contours": [
                 {
                     "x": 137,
@@ -2860,6 +2866,7 @@
             "advanceWidth": 801
         },
         "G": {
+            "spec_number": 6,
             "contours": [
                 {
                     "x": 326,
@@ -3593,6 +3600,7 @@
             "advanceWidth": 771
         },
         "H": {
+            "spec_number": 7,
             "contours": [
                 {
                     "x": 92,
@@ -4054,6 +4062,7 @@
             "advanceWidth": 1031
         },
         "I": {
+            "spec_number": 8,
             "contours": [
                 {
                     "x": 93,
@@ -4471,6 +4480,7 @@
             "advanceWidth": 764
         },
         "J": {
+            "spec_number": 9,
             "contours": [
                 {
                     "x": 411,
@@ -4892,6 +4902,7 @@
             "advanceWidth": 848
         },
         "K": {
+            "spec_number": 10,
             "contours": [
                 {
                     "x": 571,
@@ -5513,6 +5524,7 @@
             "advanceWidth": 874
         },
         "L": {
+            "spec_number": 11,
             "contours": [
                 {
                     "x": 464,
@@ -5850,6 +5862,7 @@
             "advanceWidth": 742
         },
         "L.ss01": {
+            "spec_number": 11,
             "contours": [
                 {
                     "x": 151,
@@ -6199,6 +6212,7 @@
             "advanceWidth": 362
         },
         "M": {
+            "spec_number": 12,
             "contours": [
                 {
                     "x": 200,
@@ -6752,6 +6766,7 @@
             "advanceWidth": 957
         },
         "N": {
+            "spec_number": 13,
             "contours": [
                 {
                     "x": 428,
@@ -7345,6 +7360,7 @@
             "advanceWidth": 1012
         },
         "O": {
+            "spec_number": 14,
             "contours": [
                 {
                     "x": 703,
@@ -7958,6 +7974,7 @@
             "advanceWidth": 779
         },
         "P": {
+            "spec_number": 15,
             "contours": [
                 {
                     "x": 269,
@@ -8647,6 +8664,7 @@
             "advanceWidth": 688
         },
         "Q": {
+            "spec_number": 16,
             "contours": [
                 {
                     "x": 255,
@@ -9292,6 +9310,7 @@
             "advanceWidth": 855
         },
         "R": {
+            "spec_number": 17,
             "contours": [
                 {
                     "x": 705,
@@ -10009,6 +10028,7 @@
             "advanceWidth": 994
         },
         "S": {
+            "spec_number": 18,
             "contours": [
                 {
                     "x": 410,
@@ -10402,6 +10422,7 @@
             "advanceWidth": 837
         },
         "S.ss01": {
+            "spec_number": 18,
             "contours": [
                 {
                     "x": 575,
@@ -10611,6 +10632,7 @@
             "advanceWidth": 793
         },
         "T": {
+            "spec_number": 19,
             "contours": [
                 {
                     "x": 275,
@@ -11120,6 +11142,7 @@
             "advanceWidth": 977
         },
         "U": {
+            "spec_number": 20,
             "contours": [
                 {
                     "x": 616,
@@ -11669,6 +11692,7 @@
             "advanceWidth": 1021
         },
         "V": {
+            "spec_number": 21,
             "contours": [
                 {
                     "x": 449,
@@ -12006,6 +12030,7 @@
             "advanceWidth": 656
         },
         "W": {
+            "spec_number": 22,
             "contours": [
                 {
                     "x": 413,
@@ -12559,6 +12584,7 @@
             "advanceWidth": 748
         },
         "X": {
+            "spec_number": 23,
             "contours": [
                 {
                     "x": 213,
@@ -13120,6 +13146,7 @@
             "advanceWidth": 881
         },
         "Y": {
+            "spec_number": 24,
             "contours": [
                 {
                     "x": 170,
@@ -13721,6 +13748,7 @@
             "advanceWidth": 719
         },
         "Z": {
+            "spec_number": 25,
             "contours": [
                 {
                     "x": 379,
@@ -14218,6 +14246,7 @@
             "advanceWidth": 929
         },
         "a": {
+            "spec_number": 1.1,
             "contours": [
                 {
                     "x": 505,
@@ -14671,6 +14700,7 @@
             "advanceWidth": 906
         },
         "b": {
+            "spec_number": 1.2,
             "contours": [
                 {
                     "x": 775,
@@ -15144,6 +15174,7 @@
             "advanceWidth": 898
         },
         "c": {
+            "spec_number": 1.3,
             "contours": [
                 {
                     "x": 207,
@@ -15357,6 +15388,7 @@
             "advanceWidth": 707
         },
         "d": {
+            "spec_number": 1.4,
             "contours": [
                 {
                     "x": 757,
@@ -15782,6 +15814,7 @@
             "advanceWidth": 883
         },
         "e": {
+            "spec_number": 1.5,
             "contours": [
                 {
                     "x": 207,
@@ -16483,6 +16516,7 @@
             "advanceWidth": 700
         },
         "f": {
+            "spec_number": 1.6,
             "contours": [
                 {
                     "x": 137,
@@ -17076,6 +17110,7 @@
             "advanceWidth": 801
         },
         "g": {
+            "spec_number": 1.7,
             "contours": [
                 {
                     "x": 326,
@@ -17809,6 +17844,7 @@
             "advanceWidth": 771
         },
         "h": {
+            "spec_number": 1.8,
             "contours": [
                 {
                     "x": 92,
@@ -18270,6 +18306,7 @@
             "advanceWidth": 1031
         },
         "i": {
+            "spec_number": 1.9,
             "contours": [
                 {
                     "x": 93,
@@ -18687,6 +18724,7 @@
             "advanceWidth": 764
         },
         "j": {
+            "spec_number": 1.10,
             "contours": [
                 {
                     "x": 411,
@@ -19108,6 +19146,7 @@
             "advanceWidth": 848
         },
         "k": {
+            "spec_number": 1.11,
             "contours": [
                 {
                     "x": 571,
@@ -19729,6 +19768,7 @@
             "advanceWidth": 874
         },
         "l": {
+            "spec_number": 1.12,
             "contours": [
                 {
                     "x": 464,
@@ -20066,6 +20106,7 @@
             "advanceWidth": 742
         },
         "m": {
+            "spec_number": 1.13,
             "contours": [
                 {
                     "x": 200,
@@ -20619,6 +20660,7 @@
             "advanceWidth": 957
         },
         "n": {
+            "spec_number": 1.14,
             "contours": [
                 {
                     "x": 428,
@@ -21212,6 +21254,7 @@
             "advanceWidth": 1012
         },
         "o": {
+            "spec_number": 1.15,
             "contours": [
                 {
                     "x": 703,
@@ -21825,6 +21868,7 @@
             "advanceWidth": 779
         },
         "p": {
+            "spec_number": 1.16,
             "contours": [
                 {
                     "x": 269,
@@ -22514,6 +22558,7 @@
             "advanceWidth": 688
         },
         "q": {
+            "spec_number": 1.17,
             "contours": [
                 {
                     "x": 255,
@@ -23159,6 +23204,7 @@
             "advanceWidth": 855
         },
         "r": {
+            "spec_number": 1.18,
             "contours": [
                 {
                     "x": 705,
@@ -23876,6 +23922,7 @@
             "advanceWidth": 994
         },
         "s": {
+            "spec_number": 1.19,
             "contours": [
                 {
                     "x": 410,
@@ -24273,6 +24320,7 @@
             "advanceWidth": 301
         },
         "t": {
+            "spec_number": 1.20,
             "contours": [
                 {
                     "x": 275,
@@ -24782,6 +24830,7 @@
             "advanceWidth": 977
         },
         "u": {
+            "spec_number": 1.21,
             "contours": [
                 {
                     "x": 616,
@@ -25331,6 +25380,7 @@
             "advanceWidth": 1021
         },
         "v": {
+            "spec_number": 1.22,
             "contours": [
                 {
                     "x": 449,
@@ -25668,6 +25718,7 @@
             "advanceWidth": 656
         },
         "w": {
+            "spec_number": 1.23,
             "contours": [
                 {
                     "x": 413,
@@ -26221,6 +26272,7 @@
             "advanceWidth": 748
         },
         "x": {
+            "spec_number": 1.24,
             "contours": [
                 {
                     "x": 213,
@@ -26782,6 +26834,7 @@
             "advanceWidth": 881
         },
         "y": {
+            "spec_number": 1.25,
             "contours": [
                 {
                     "x": 170,
@@ -27383,6 +27436,7 @@
             "advanceWidth": 719
         },
         "z": {
+            "spec_number": 1.26,
             "contours": [
                 {
                     "x": 379,
